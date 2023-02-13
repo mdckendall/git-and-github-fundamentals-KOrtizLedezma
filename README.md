@@ -94,12 +94,12 @@ I have already finish this course
 
 I have learned about:
 ```
->Markdowwns
+>Markdowns
 >Branches
 >Forks
 >Pull Requests
 ```
-
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://cdn3.iconfinder.com/data/icons/security-2-1/512/thumb_up-512.png))
 ## 📝 Optional next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
