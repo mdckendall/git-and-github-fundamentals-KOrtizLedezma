@@ -99,7 +99,7 @@ I have learned about:
 >Forks
 >Pull Requests
 ```
-![This is an image]([https://cdn3.iconfinder.com/data/icons/security-2-1/512/thumb_up-512.png])
+![This is an image](https://cdn3.iconfinder.com/data/icons/security-2-1/512/thumb_up-512.png)
 ## 📝 Optional next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
