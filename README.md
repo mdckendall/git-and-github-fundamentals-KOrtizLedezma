@@ -88,6 +88,18 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
+#### Pull Request and Markdown
+
+I have already finish this course
+
+I have learned about:
+```
+>Markdowwns
+>Branches
+>Forks
+>Pull Requests
+```
+
 ## 📝 Optional next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
